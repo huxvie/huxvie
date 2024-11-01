@@ -1,5 +1,5 @@
 # 💫 About Me:
-  **👋 About Me**<br><br>Hi! I'm  Polly Zist, a developer with a passion for creating and exploring new technologies. I specialize in full-stack development and love contributing to open-source projects.<br><br>  **🛠️ Tech Stack**<br>- **Languages:** JavaScript, Python, Java<br>- **Frameworks:** React, Node.js, Django<br>- **Tools:** Git, Docker<br>- **Databases:** MySQL, MongoDB<br><br>  **🌱 Learning**<br>Currently diving into cloud computing and machine learning.<br><br>  **📫 Reach Me**<br>Discord:deadbackup<br>
+  **👋 About Me**<br><br>Hi! I'm  Polly Zist, a developer with a passion for creating and exploring new technologies. I specialize in full-stack development and love contributing to open-source projects.<br><br>  **🛠️ Tech Stack**<br>- **Languages:** JavaScript, Python, Java<br>- **Frameworks:** React, Node.js, Django<br>- **Tools:** Git, Docker<br>- **Databases:** MySQL, MongoDB<br><br>  **🌱 Learning**<br>Currently diving into cloud computing and machine learning.<br><br>  **📫 Reach Me**<br>Discord:deleteduser001677<br>
 
 
 ## 🌐 Socials:
