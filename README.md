@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [nothing](soon)
 
-- 📫 How to reach me **Discord:<https://discord.com/users/1075983044881694762>**
+- 📫 How to reach me **Discord:<nope>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
