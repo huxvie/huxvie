@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently studying Cybersecurity <br>🎯 Goals: No point in having goals, just live life I guess 🤷‍♂️<br>🎲 Fun fact: 100% of my repos are private</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently studying Cybersecurity <br>🎯 Goals: No point in having goals, just live life I guess 🤷‍♂️<br>🎲 Fun fact: 99.9% of my repos are private</p>
 
 ###
 
