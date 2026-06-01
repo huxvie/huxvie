@@ -1,4 +1,3 @@
-FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
 name: Generate pacman animation
 
 on:
@@ -26,7 +25,7 @@ jobs:
 
 
       - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           target_branch: output
           build_dir: dist
